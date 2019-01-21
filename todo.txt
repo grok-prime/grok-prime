@@ -1,0 +1,35 @@
+Features
+Modular, immersive tutorial, part of experience
+lots of feedback
+simple terms, with legalese attached
+use open source
+always tell truth
+state values plainly
+discuss licenses used
+
+REACT
+actions: { type, data };
+actioncreator: function returns an action;
+
+STANDARDS
+
+miminize reliance on google / external api calls
+- is best option?
+- ensure load correctly with bundler
+  - actually use typefaces
+
+^ document this and share information
+
+Accessibility
+
+resolutions https://mediag.com/blog/popular-screen-resolutions-designing-for-all/
+
+ensure screen reader
+
+enable voice assistant
+
+different apps (create consistent naming structure);
+game.grok.host
+advice.grok.host
+todo.grok.host
+

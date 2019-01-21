@@ -1,0 +1,9 @@
+we don't use flux conventions
+
+
+
+we have an types.jsx file in the actions folder that lists action types;
+
+we use arrow functions
+
+
