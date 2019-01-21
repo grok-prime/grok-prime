@@ -1,0 +1,9 @@
+REACT
+// just a plain object, requires a type property
+actions: { type, data };
+
+
+actioncreator: function returns an action;
+store.dispatch = dispatch => dispatch(action(data));
+
+
