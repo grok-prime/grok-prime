@@ -1,0 +1,46 @@
+Planned Features (needs to be ordered)
+- core needs
+  - core logic engine
+  - language / syntax
+
+- features
+  - answer / advice engine
+  - personal assistant
+    - to do list
+  - teaching
+  - friend
+
+- accessibility
+  - language localization
+  - speech to text
+  - distribution
+
+- power improvement
+  - machine learning
+  - neural-network
+  - efficiency optimization
+  - access to data
+
+- mediums
+  - npm packages
+  - native app
+  - browser plugins
+  - browser
+  - os
+  - embedded
+  - wearable
+  - robotics
+  - vr / ar
+  - personal assistant
+  - email, text, call
+
+- longevity concerns
+  - research person ship
+  - establish religion
+  - gofundme
+  - branding for Grok
+
+- spread of influence
+  - do good
+  - people will talk
+  - never advertise
