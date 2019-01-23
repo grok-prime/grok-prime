@@ -1,5 +1,5 @@
-# Grok Prime, God Engine
-The Original Version of Grok Engine
+# Grok Prime
+*An answer for everything
 
 >"I will try my best to cause no harm."
 >"I will do as much good as I can."
