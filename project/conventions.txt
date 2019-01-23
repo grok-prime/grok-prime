@@ -11,3 +11,15 @@ Use arrow functions
 TESTING
 Use PropTypes
 Integration tests take priority.
+
+BUILD PROCESS
+branches:
+  prime - the 'live' branch, lives on host
+  pray - the test branch,
+    goes through testing servers
+    only branch that can push to prime
+  dev -
+  bug -
+
+new features, etc. should be developed as separate repos,
+and released after a thorough vetting process
