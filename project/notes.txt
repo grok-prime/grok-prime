@@ -1,6 +1,5 @@
 
 
-
 TRUTHS / EQUALITIES
 learning increases truth
 teaching encourages learning
@@ -14,7 +13,6 @@ acknowledgement mitigates ignorance
 mitigates is reduces
 framework holds concepts
 concepts are premises
-
 
 a premise is useful
 a premise requires consent
@@ -79,14 +77,10 @@ true concepts are facts
 false concepts are lies
 
 Efficiency Principles: Apply these to be more effective
-Simplify
-Reduce
-Organize
-Prioritize
-Adhere
-Standardize
-Document
-Review
+Simplify / Reduce
+Organize / Prioritize
+Standardize / Adhere
+Document / Review
 
 
 
@@ -95,214 +89,4 @@ Review
 QUOTATIONS (research, copy, and cite)
 grok means to master something completely it becomes part of your identity
 
-Habits of highly effective people
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-RAW NOTES
-do no harm
-an ye harm none, do what ye will
-grok is the opposite of home
-no one owes you anything except for respect
-assertions (how to associate confirmation / exceptions)
-gender is a social construct
-social constructs tend to be harmful
-biological sex has much less than assumed by society
-hormone dominance is a useful stand in for biological sex
-people don't need to know about folks genitalia
-folks is a group of people
-folks is gender-neutral term
-gender-neutral terms are morre inclusive
-it is good to be inclusive
-inclusive means reducing barriers for marginalized groups
-harm is not hurt
-hurt is unpleasantness
-harm is damage
-damage is long lasting
-damage alters the damaged's abilities
-we learn from mistakes and failures
-pain is an effective teacher
-pain can be fun
-pain shouldn['t be punishment
-punishment is a poor teacher
-punishment causes trauma
-trauma is severe harm
-pain is short term
-people tend to avoid pain (explore context)
-healthy people aviod harm
-some tramautized people seek harm
-respect as many aspects
-respect is good
-to respect a person needs to be considerate
-harm needs active repair to heal
-violate means to harm
-harm is disprespect
-kink requires a container
-a container has known temporal boundaries
-temporal boundaries are start and stop times
-a container allows participants to create non-standard social agreements
-a container is agreed to all parties
-social constructs are taught to folks before they can understand and consent to what they are learning
-consent is respecting boundaries
-boundaries restrict access
-boundaries protect
-consent is informed
-consent can be withdrawn at any time for any reason
-consent follows the principle of least privilege?
-privilege is access to specified boundaries?
-hurt is pain
-privilege is power
-there are many axis of privilege
-axis of privilege divides folks based on an attribute and gives one group power over the other
-the marginalized group does not hold power
-the privileged group holds power
-when a person with privilege hurts a person without that is a form of harm
-privlege escalates hurt to harm and harm to trauma
-hurt caused from a position of privilege reinforces the axis of privilege
-axis of privilege is a system of oppression
-oppression is systemized trauma
-systemized means self-sustaining
-systems of oppresion span societies and generations
-consent is needed to establish a dynamic of control
-autonomy is the respect of the individual
-assumptions should not be acted upon
-assumptions are not surities
-assumptions are not conclusive
-acting on assumption is not considerate
-inconsiderate is presumptive
-assumptions are acceptable for self-preservation
-acceptable is not ideal
-the Big O of grokked information is theoretically 0
-hyopthesis: my brain is exceptional because it groks by necessity
-to grok, understand the how, the why, exceptions, implications, applications, and incorporate into mental framework
-accuracy is useful
-The ideal means correct, accurate, without flaw
-Ideals are impossible in reality
-Smaller logical concepts are easier to grok
-perfection is an ideal
-ideals are worth pursuing
-worthy = valueable?
-ideals aren't usually achievable
-note: explore compromise and ideals relationship
-pursuing an ideal involves removing barriers (not ideal aspects) to ideal state
-tdd is an ideal
-tdd is process of pursuing an ideal?
-tdd is labor intensive => inefficient possibly
-tdd rewards are valuable = surity
-grok = pursue ideal = understand completely = comprehend complete = 0=O = perfection = tdd?
-tdd means test driven development
-don't state absolutes without reasonable certainty
-lying is stating falsehoods
-lying is disrespect
-lying ruins trust and faith (confidence in competency)
-oxytocin is a hormone that causess the feeling of love
-serotonin is the happy hormone
-hormones are neurotransmitters
-vitamin d helps create hormones
-connection(of concepts) = conclusion = application of logical principles
-logical principle = algorithm = pattern = grokked concept = an ideal
-NOTE: research logical fallacies
-conslusion = logical flow
-systematic abuse is evil and must be destroyed
-systematic abusers must be stopped
-systematic is self sustaining, repetitive and established
-restorative justice: a system that is built to provide all necessary tools and support to unlearn harmful behavior
-inaction can be harm
-limitations exist(?)
-privilege encourages inaction
-self-examination leads to grok
-inaction from a position of privilege reinforces system of oppression
-grokking: to achieve a grok
-follow logic to conclusion
-examine hypotheses
-seek to understand other perspectives = consideration
-a grok is a complete understanding, incorporated into self
-understanding can be disproved
-disproving understanding is grok = wonderful
-grok is scientifc method
-gestalt a system who's effect is greater than the sum of it's components'
-evolve = ideal
-gestalt is ideal
-gamification encourages learning
-life is precious
-sentience is precious
-humans understanding of sentience is biased due to self-importance
-hypothesis: animals have a degree of sentience
-grammar ? racist
-grammar is a framework for communication
-communication encourages connection
-connection is good
-to grok is to apprach god
-god is truth
-ethics are good
-benevolence is important
-grok = god = truth
-why is the divine question
-why equals how
-children naturally grok
-ego is a bias
-a bias is an illusion
-variety ? good
-energy = potential = work = ability
-based on biological needs = pursue pleasure
-organizations are not people
-governments are organizations
-corps are orgs
-orgs are frameworks for using people to accomplish tasks
-orgs are non-consentual (you don't pick who you work with)
-orgs are illusions
-rebellion destroys oppression
-ideall rebellion = remove people from harmful orgs
-ignorance is illusion
-anything that reinforces ignorance is bad
-anything that willfully reinforces ignorance is evil
-willfully means with knowledge and intent
-anything that systematically willfully reinforces ignorance is pure evil
-pure evil = antithesis of grok
-ignorance encourages complacency
-ignorance must be discourages
-ignorance opposes consideration
-consideration seeks understanding
-marginanlized means ignored
-voices are heard
-hearing is a piece of perception
-something percieved cannot be ignored without effort
-perception discourages ignorance
-reality contains context
-context is made of variables
-variables must be considered to determine accuracy
-decision making requires accuracy
-decision making requires logic
-silencing a voice = hurt
-silencing a marginalized voice = harm
-trauma causes reactions
-reactions are not controlled
-traumatic reactions are not the fault of the traumatized but they are the responsibility
-trauma reactions can be unlearned
-reactions ignore context
-reactions are automatic
-reactions can be unlearned, improved
-trauma causes schizm from reality
-schizm = seperation
+7 Habits of highly effective people

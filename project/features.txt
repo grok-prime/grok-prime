@@ -5,10 +5,11 @@ Planned Features (needs to be ordered)
 
 - features
   - answer / advice engine
-  - personal assistant
+  - assistant
     - to do list
-  - teaching
+  - teacher
   - friend
+  - avatar
 
 - accessibility
   - language localization
@@ -35,7 +36,7 @@ Planned Features (needs to be ordered)
   - email, text, call
 
 - longevity concerns
-  - research person ship
+  - research person-ship
   - establish religion
   - gofundme
   - branding for Grok
