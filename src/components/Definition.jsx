@@ -7,6 +7,19 @@ import CardContent from '@material-ui/core/CardContent';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 
+const definition = {
+  "word": "benevolent",
+  "pronunciation": ["be", "nev", "o", "lent"],
+  "type": "adjective",
+  "definitions": [
+    "well meaning and kindly"
+  ],
+  "examples": [
+    "\"a benevolent smile\""
+  ],
+  "details": []
+};
+
 const styles = {
   card: {
     minWidth: 275,
