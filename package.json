@@ -9,6 +9,7 @@
     "enzyme": "^3.8.0",
     "enzyme-adapter-react-16": "^1.7.1",
     "moxios": "^0.4.0",
+    "node-sass": "^4.11.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-redux": "^6.0.0",
@@ -17,6 +18,7 @@
     "redux": "^4.0.1",
     "redux-promise": "^0.6.0",
     "redux-thunk": "^2.3.0",
+    "sass-loader": "^7.1.0",
     "typeface-barlow": "0.0.71",
     "typeface-playfair-display": "0.0.54",
     "typeface-roboto": "0.0.54"

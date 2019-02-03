@@ -1,43 +1,27 @@
 import React from 'react';
-import PropTypes from 'prop-types';
-import { withStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
-import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
-import Button from '@material-ui/core/Button';
 import Typography from
   '@material-ui/core/Typography';
-import Definition from 'components/Definition';
-import scenes from 'static/data/tutorial';
 
-const styles = {
-  card: {
-    minWidth: 275,
-  },
-  bullet: {
-    display: 'inline-block',
-    margin: '0 2px',
-    transform: 'scale(0.8)',
-  },
-  title: {
-    fontSize: 14,
-  },
-  pos: {
-    marginBottom: 12,
-  },
-};
+import Logo from 'components/Logo';
 
 const Welcome = props => {
-  const { classes } = props;
-  const bull = <span className={classes.bullet}>•</span>;
-
   return (
-    <Definition />
+    <Card>
+      <CardContent>
+        <Logo className="main-logo" />
+        <Typography><h1>Grok is coming soon!</h1>
+          <ul>
+            <li>Answer every question.</li>
+            <li>Solve every problem.</li>
+            <li>Help every person.</li>
+          </ul>
+          <p>Find out more about the grok project at <a href="https://github.com/grok-prime/grok-prime" target="_blank">github</a>.</p>
+        </Typography>
+      </CardContent>
+    </Card>
   )
 };
 
-Welcome.propTypes = {
-  classes: PropTypes.object.isRequired,
-};
-
-export default withStyles(styles)(Welcome);
+export default Welcome;
