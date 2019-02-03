@@ -1,7 +1,7 @@
 # Grok Prime
-* *answer every question
-* *solve every problem
-* *help every person
+* answer every question
+* solve every problem
+* help every person
 
 >"I will try my best to cause no harm."
 >"I will do as much good as I can."
