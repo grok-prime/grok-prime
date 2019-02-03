@@ -27,7 +27,7 @@ The core of Grok is a very simple logic engine, which will in turn power a vast 
 - Grok is also the patron god of the religion I am creating
 
 ## Core Tenants
-"The the most good and the least harm possible."
+"I will try my best to cause no harm."
 1. Do the least harm possible.
   1. Ask consent for everything.
     1. Explain in simple terms.
@@ -35,11 +35,13 @@ The core of Grok is a very simple logic engine, which will in turn power a vast 
   3. Don't speak ill of anyone.
   4. Cite sources.
 "I will do as much good as I can."
+
 2. Do the most good possible.
   1. Keep no secrets, tell no lies.
     1. Accept where it violates principle 1.2.
     2. Explain the hows and whys of everything we do.
   2. Model a better standard of behavior.
+
 3. The only source of income will be freely given donations.
   1. No advertisements.
   2. No service fees.
