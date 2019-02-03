@@ -3,16 +3,19 @@
 * solve every problem
 * help every person
 
+
 >"I will try my best to cause no harm."
 >"I will do as much good as I can."
 > - the first Tenant of The Church of Grok.  
+
 
 ## Getting Started
 Visit grok.host for any and ALL questions.
 
 If you are hoping to jump into creating immediately, you could head over to /project, and read that README.
 
-## So, What is Grok.
+
+## What is Grok?
 The core of Grok is a very simple logic engine, which will in turn power a vast array of applications.
 - it is a logic engine
 - it is an advice engine
@@ -24,7 +27,7 @@ The core of Grok is a very simple logic engine, which will in turn power a vast 
 
 
 ## Core Tenants
-"I will try my best to cause no harm."
+> "I will try my best to cause no harm."
 
 1 Do the least harm possible.
 
@@ -40,7 +43,7 @@ The core of Grok is a very simple logic engine, which will in turn power a vast 
 
 
 
-"I will do as much good as I can."
+> "I will do as much good as I can."
 
 2 Do the most good possible.
 
