@@ -15,6 +15,16 @@ Visit grok.host for any and ALL questions.
 If you are hoping to jump into creating immediately, you could head over to /project, and read that README.
 
 
+## Mission Statement
+1. To make the world a better place in every way possible.
+
+2. To spread knowledge, understanding, and critical thinking skills across the world.
+
+3. To help every person be the best person they can be.
+
+4. To make peoples' lives easier.
+
+
 ## What is Grok?
 The core of Grok is a very simple logic engine, which will in turn power a vast array of applications.
 - it is a logic engine
