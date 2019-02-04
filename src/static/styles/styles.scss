@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'grok';
+  src: url('../fonts/grok.eot');
+  src: url('../fonts/grok.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/grok.woff') format('woff'),
+       url('../fonts/grok.ttf') format('truetype'),
+       url('../fonts/grok.svg#grok') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class*='icon-']:before{
+display: inline-block;
+ font-family: 'grok';
+ font-style: normal;
+ font-weight: normal;
+ line-height: 1;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale
+}
+
+.icon-grok:before{content:'\0067';}
+
+.main-logo {
+  padding:18px 0 12px 0; margin: 0;
+  font-size: 240px;
+  line-height: 240px;
+  height: 240px;
+  text-align:center;
+  background-color:rgba(0,0,0,0.8);
+  color: transparent;
+  text-shadow: 0px 1px 1px rgba(255,255,255,0.9);
+  -webkit-background-clip: text;
+     -moz-background-clip: text;
+          background-clip: text;
+}
+
+html, body, #root{
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+html, body{
+  margin: 0; padding: 0; border: none;
+}
+#root{
+  background:#eee;
+  padding:12px;
+}
+
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
